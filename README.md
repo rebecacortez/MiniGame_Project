@@ -1,2 +1,2 @@
-# MiniGame_Project
+# Mini Game Project
 World Capitals Quiz
